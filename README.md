@@ -81,7 +81,7 @@ VITE_API_KEY=your_api_key_here
 
 ## 🙌 Author
 
-Made with ❤️ by Lobhas Thekale
+ Lobhas Thekale
 
 ---
 
