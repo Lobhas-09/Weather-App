@@ -28,7 +28,7 @@ A simple and clean weather application built using **React** that allows users t
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone <repo-url>
    ```
 
 2. Navigate to project folder:
