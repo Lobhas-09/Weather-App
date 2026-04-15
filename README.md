@@ -1,20 +1,97 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌦️ Weather App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean weather application built using **React** that allows users to check real-time weather information of any city using a weather API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 🌍 Search weather by city name
+* 🌡️ Displays temperature, weather condition, and location
+* ⛅ Dynamic weather updates using API
+* ⚡ Fast and responsive UI
+* 📱 Simple and user-friendly design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
+* React.js
+* JavaScript (ES6+)
+* HTML5 & CSS3
+* Weather API
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <your-repo-url>
+   ```
+
+2. Navigate to project folder:
+
+   ```bash
+   cd weather-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 🔑 Environment Variables
+
+Create a `.env` file in the root directory and add:
+
+```bash
+VITE_API_KEY=your_api_key_here
+```
+
+> ⚠️ Do not share your API key publicly.
+
+---
+
+## 📸 Preview
+
+* Search any city
+* Get instant weather details
+
+---
+
+## 📌 Future Improvements
+
+* Add 7-day weather forecast
+* Add location-based weather (GPS)
+* Improve UI with animations
+* Add dark mode
+
+---
+
+## 🙌 Author
+
+Made with ❤️ by Lobhas Thekale
+
+---
+
+## 📄 License
+
+This project is open-source and free to use.
+
+
+
+
+
 # Weather-App
 >>>>>>> 48043e3f5d15a59bf728acae7e46f156db87772b
